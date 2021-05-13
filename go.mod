@@ -9,7 +9,7 @@ require (
 	github.com/galaco/source-tools-common v0.1.0
 	github.com/galaco/studiomodel v0.1.3
 	github.com/galaco/vmf v1.0.0
-	github.com/galaco/vpk2 v0.0.0-20181012095330-21e4d1f6c888
+	github.com/galaco/vpk2 v1.0.0
 	github.com/galaco/vtf v1.1.1
 	github.com/go-gl/mathgl v0.0.0-20190713194549-592312d8590a
 	github.com/galaco/filesystem v0.1.3
