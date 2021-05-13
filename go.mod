@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/galaco/KeyValues v1.4.1
-	github.com/galaco/bsp v0.2.3
+	github.com/galaco/bsp v0.2.4
 	github.com/galaco/loggy v0.0.0-20190629005848-af043014a903
 	github.com/galaco/source-tools-common v0.1.0
 	github.com/galaco/studiomodel v0.1.3
