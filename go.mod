@@ -7,7 +7,7 @@ require (
 	github.com/galaco/bsp v0.2.3
 	github.com/galaco/loggy v0.0.0-20190629005848-af043014a903
 	github.com/galaco/source-tools-common v0.1.0
-	github.com/galaco/studiomodel v0.1.3
+	github.com/galaco/studiomodel v0.2.2
 	github.com/galaco/vmf v1.0.0
 	github.com/galaco/vpk2 v0.0.0-20181012095330-21e4d1f6c888
 	github.com/galaco/vtf v1.1.1
